@@ -25,7 +25,7 @@ This project showcases the immersive and visually stunning effects of parallax s
 
 Feel free to customize, contribute, and utilize this project for your own websites. Your creativity is the limit!
 
-🌐 Explore the live project [here](#).
+🌐 Explore the live project [click here](https://naitikjpatel.github.io/Parallax-Website/).
 
 Happy scrolling! 🚀✨
 
